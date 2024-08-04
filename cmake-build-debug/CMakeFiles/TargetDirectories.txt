@@ -1,0 +1,3 @@
+/Users/jachant/Desktop/git/biocenosis2.0/cmake-build-debug/CMakeFiles/Biocenosis.dir
+/Users/jachant/Desktop/git/biocenosis2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jachant/Desktop/git/biocenosis2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
